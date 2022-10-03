@@ -1,7 +1,8 @@
 package edu.ncsu.monopoly;
 //updated 20222
+"// I have added a comment"
 public abstract class Card {
-
+	
     public static final int TYPE_CHANCE = 1;
     public static final int TYPE_CC = 2;
 
@@ -9,3 +10,4 @@ public abstract class Card {
     public abstract void applyAction();
     public abstract int getCardType();
 }
+
