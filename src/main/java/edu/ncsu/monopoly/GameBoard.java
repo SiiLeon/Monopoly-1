@@ -9,7 +9,7 @@ public class GameBoard {
     private ArrayList<Card> chanceCards = new ArrayList<>();
 	//the key of colorGroups is the name of the color group.
 	private Hashtable colorGroups = new Hashtable();
-	private ArrayList<Card> communityChestCards = new ArrayList<Card>();
+	private ArrayList<Card> communityChestCards = new ArrayList<>();
 	private GameMaster gameMaster;
 	
 	public GameBoard() {
