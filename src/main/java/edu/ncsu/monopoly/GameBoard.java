@@ -5,8 +5,8 @@ import java.util.Hashtable;
 
 public class GameBoard {
 
-	private ArrayList<Cell> cells = new ArrayList<Cell>();
-    private ArrayList<Card> chanceCards = new ArrayList<Card>();
+	private ArrayList<Cell> cells = new ArrayList<>();
+    private ArrayList<Card> chanceCards = new ArrayList<>();
 	//the key of colorGroups is the name of the color group.
 	private Hashtable colorGroups = new Hashtable();
 	private ArrayList<Card> communityChestCards = new ArrayList<Card>();
