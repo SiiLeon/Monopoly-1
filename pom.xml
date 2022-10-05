@@ -41,7 +41,7 @@
     <sonar.organization>siileon</sonar.organization> 
     <sonar.host.url>https://sonarcloud.io</sonar.host.url>   
     <sonar.projectKey>MonopolyCI2</sonar.projectKey>   
-    <sonar.login>76096a5634db110f81c7da204ca05b0d381a41c2</sonar.login>  
+    <sonar.login>2266469b35c366e884779b9bab44497929035e3d</sonar.login>  
 </properties> 
  
 <!-- https://mvnrepository.com/artifact/junit/junit --> 
